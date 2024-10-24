@@ -1,3 +1,12 @@
+# Data
+data/
+
+# Junk and temp files
+brisi*
+.snakemake
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
